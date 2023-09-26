@@ -66,4 +66,4 @@ pyinstaller --onefile --add-data "images/*.png:images" your_script.py
 ## 邮箱
 主邮箱：51gcode@51gcode.cn
 副邮箱：zsyzsyzsyzsy@tom.com
-公用邮箱（不推荐，会被我们团队的人看见）：
+公用邮箱（不推荐，会被我们团队的人看见）：information@51gcode.cn
